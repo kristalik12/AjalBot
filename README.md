@@ -1,0 +1,2 @@
+# AjalBot
+Aiogram Telegram Bot
